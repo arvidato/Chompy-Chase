@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1Sky
+    uniqueID: 874501167
+    locked: 0
+  - name: 2Clouds
+    uniqueID: 1880933007
+    locked: 0
+  - name: 3Background
+    uniqueID: 684212701
+    locked: 0
+  - name: 4Ground
+    uniqueID: 965062979
+    locked: 0
+  - name: JetpackExhaust
+    uniqueID: 3008449293
+    locked: 0
+  - name: Character
+    uniqueID: 4118412387
+    locked: 0
+  - name: Jetpack
+    uniqueID: 3519490053
+    locked: 0
+  - name: Obstacle
+    uniqueID: 1818965019
+    locked: 0
+  - name: Coin
+    uniqueID: 3743825023
+    locked: 0
+  - name: Powerups
+    uniqueID: 1768044897
+    locked: 0
