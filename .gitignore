@@ -42,3 +42,7 @@ Desktop.ini
 # ========== Unity Crash Reports ==========
 
 sysinfo.txt
+
+
+# Gameplay videos
+*.mp4
